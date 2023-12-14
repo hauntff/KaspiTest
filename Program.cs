@@ -1,5 +1,4 @@
 using KaspiTest.ApplicationContext;
-using KaspiTest.Background;
 using KaspiTest.Extension;
 using KaspiTest.Models;
 using KaspiTest.Repository;
